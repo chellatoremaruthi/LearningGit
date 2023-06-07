@@ -2,5 +2,7 @@
 hello world !!!
 - Feature Branch -
 learning_git_branching
-- Remote Branch-
-learining_git_branching_remote
+- Remote Branch Push-
+learining_git_branching_remote_Push
+- Remote Branch Pull-
+learining_git_branching_remote_Pull
